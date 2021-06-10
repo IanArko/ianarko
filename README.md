@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on finishing my Electrical Engineering degree at Stanford Univerity (Class of 2021)
+- 🤔 I’m looking for help with backend/infrastructure with a finTech Startup
+- 🌱 I’m currently learning Solidity for ETH contract development
+- 📫 How to reach me: ianrichardarko@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: My favorite author is Walter Isaacson
+
 <!--
 **IanArko/ianarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
