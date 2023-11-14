@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Solidity for ETH contract development
+- 🌱 I’m currently reading Refactoring by Kent Beck and Martin Fowler
 - 📫 How to reach me: ianrichardarko@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My favorite author is Walter Isaacson
